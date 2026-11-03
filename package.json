@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-upstash-redis",
+  "version": "1.0.0",
+  "description": "Serverless Redis and REST key-value cache layer with kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.0"
+  },
+  "license": "MIT"
+}
